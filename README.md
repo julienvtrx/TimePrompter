@@ -41,7 +41,9 @@ python main.py
 
 **Inspiration**
 ---
-As I have an online interview soon where I will have to tell them stuff about me in a given time and i know that I like to talk a lot, i thought: maybe i need a timer. Then i thought that the timer could be linked to the points i have written so i can read them and know where I am in my speech.
+As I have an online interview soon where I will have to tell them stuff about myself in a given time and i know that I like to talk a lot, i thought: maybe i need a timer.
+Then i thought that the timer could be linked to the points i have written so i can read them and know where I am in my speech.
+Here we are now.
 
 
 
