@@ -7,10 +7,10 @@ A Prompter which you can give the information you want to tell in your presentat
 **How it works**
 ---
 The prompter runs entirely in your terminal:
-1. Open the file <ins> timestamps_and_text.txt </ins>
-2. Enter the time you want to read the part of your text until, in seconds 
-3. Enter **:** after the time
-4. Enter your text for the given time after the **:**
+1. Open the file <ins> timestamps_and_text.txt </ins>, an example of how the formating looks like is also given
+2. Enter the time, you want to read the part of your text until, in seconds 
+3. Enter ":" after the time
+4. Enter your text for the given time after the ":"
 5. Save the changes (on most platforms and text editors: control + s)
 6. Will print in the terminal your text at the wished timestamp you have given once and will print the text of the next timestamp directly in a new line
 
