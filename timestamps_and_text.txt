@@ -1,0 +1,7 @@
+#	example:
+#	beginning until second 10, then second 10 to 20 etc. I want it to prompt me a beautiful poem by Schiller
+
+10 : Es reden und träumen die Menschen viel
+20 : Von bessern künftigen Tagen 
+30 : Nach einem glücklichen, goldenen Ziel
+40 : Sieht man sie rennen und jagen.
