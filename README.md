@@ -55,3 +55,4 @@ If you:
 - have an idea for the future of the project  
 
 dont mind hitting me up!  
+email: vtrx.code@gmail.com
